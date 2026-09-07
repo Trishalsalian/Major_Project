@@ -1,0 +1,17 @@
+Candidate Name: Alex
+
+Education:
+Bachelor's degree in Computer Science
+
+Technical Skills:
+Python, Java, SQL, Machine Learning, Data Structures and Algorithms
+
+Experience:
+Completed a 6-month internship as a Software Development Intern.
+
+Projects:
+Built a machine learning model for customer segmentation.
+Developed a web application using Python and Flask.
+
+Additional Information:
+Strong problem-solving skills and experience working on team projects.
